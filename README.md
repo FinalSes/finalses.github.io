@@ -12,3 +12,6 @@
 Моя любовь к мёду и постоянные приключения часто ставят меня в смешные и затруднительные положения, такие как застревание в норе или потеря подарков.
 ![Винни-Пух](https://avatars.mds.yandex.net/get-entity_search/2044927/970413507/S600xU_2x)
 ![В2222](https://disk.yandex.ru/i/UyiJBOJoN-gA4A)
+<video controls>
+  <source src="[https://disk.yandex.ru/i/UyiJBOJoN-gA4A]" type="video/mp4">
+</video>
